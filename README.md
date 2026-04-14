@@ -1,4 +1,4 @@
 # Apna-college-demo
 This is my first git repository.
 <br>
-Author- Ravi kumar chaurasiya.
+Author- Ravi kumar chaurasiya.(Apna college)
